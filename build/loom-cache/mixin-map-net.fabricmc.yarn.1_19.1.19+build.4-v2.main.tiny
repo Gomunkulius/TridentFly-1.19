@@ -1,3 +1,0 @@
-v1	named	intermediary
-FIELD	com/butukay/tridentfly/mixin/ClientPlayerEntityMixin	Lnet/minecraft/client/MinecraftClient;	client	field_3937
-METHOD	com/butukay/tridentfly/mixin/TridentItemMixin	(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;I)V	onStoppedUsing	method_7840
