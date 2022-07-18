@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "trident-fly",
-  "version": "${version}",
+  "version": "1.0.0-1.19",
   "name": "Trident Fly",
   "description": "Cheat that alows always to fly on your trident",
   "authors": [
